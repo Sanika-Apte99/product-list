@@ -1,0 +1,13 @@
+.card{
+    max-width: 20vw;
+    height: 30vh;
+    
+}
+.btn1{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
